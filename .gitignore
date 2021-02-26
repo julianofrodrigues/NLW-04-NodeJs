@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+
+#banco
+/src/database/database.sqlite
+/src/database/database.test.sqlite
